@@ -246,9 +246,6 @@ def ui_full(launch_kwargs):
         gr.Markdown(
             """
             # MELOMAKER
-            This is your private demo for [MusicGen](https://github.com/facebookresearch/audiocraft),
-            a simple and controllable model for music generation
-            presented at: ["Simple and Controllable Music Generation"](https://huggingface.co/papers/2306.05284)
             """
         )
         with gr.Row():
